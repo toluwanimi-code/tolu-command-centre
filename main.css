@@ -1,0 +1,14 @@
+
+
+table {
+  border-collapse: collapse; /* merges double borders into single lines */
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px 12px;
+}
+form button[type="submit"] {
+  display: block;
+  margin-top: 12px;
+}
